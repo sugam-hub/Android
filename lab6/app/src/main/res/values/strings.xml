@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="form">FORM</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="subject">Subject</string>
+    <string-array name="option">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+    </string-array>
+
+</resources>

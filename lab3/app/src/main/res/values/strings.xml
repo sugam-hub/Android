@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="reminder">Reminder Name</string>
+    <string name="dates">Date</string>
+    <string name="times">Time</string>
+    <string name="done">Done</string>
+</resources>
